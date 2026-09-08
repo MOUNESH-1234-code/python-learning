@@ -7,7 +7,7 @@ age = 17
 marks = 85.5
 is_student = True
 
-print(name)
-print(age)
-print(marks)
-print(is_student)
+print(name)          #Mounesh
+print(age)           #17
+print(marks)         #85.5
+print(is_student)    #True
