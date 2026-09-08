@@ -1,0 +1,13 @@
+01_VAR8ABLES-(.Py)
+
+# Variables in Python
+
+name = "Mounesh"
+age = 17
+marks = 85.5
+is_student = True
+
+print(name)
+print(age)
+print(marks)
+print(is_student)
